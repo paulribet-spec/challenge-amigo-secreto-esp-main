@@ -53,7 +53,7 @@ La aplicación está compuesta por:
 - Guardar la lista en el **almacenamiento local (localStorage)** para no perder los datos al recargar.
 
 
-<h2>👤 Autor</h2> 
+<h2>Autor</h2> 
 Paul Ribet - Estudiante Programa ONE - Oracle Next Education: GRUPO 9
 
 - Desarrollado como proyecto práctico de programación.  
